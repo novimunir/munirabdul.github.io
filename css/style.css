@@ -111,7 +111,17 @@ footer p i {
   .mysql{width: 20%;background-color: #E93232}
   .git{width: 75%;background-color: #0d0d0d}
 
-
+  .navbar-brand{
+	position: fixed;
+	/* padding-bottom: 20px;
+	padding-left: 30px; */
+}
+.container-fluid{
+	height: 8rem;
+}
+.nav{
+	padding-right: 11rem;
+}
 
 
 
